@@ -1,0 +1,6 @@
+settings.json
+.vscode/
+.idea/
+__pycache__
+.fleet/
+venv/

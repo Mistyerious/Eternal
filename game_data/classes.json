@@ -1,0 +1,23 @@
+{
+    "__comment": "Perks will be useful at some point, just can't think of them right now.",
+    "1": {
+        "name": "Sword Weilder",
+        "ranks": [
+            {
+                "id": 1,
+                "name": "Sword Master",
+                "perks": {}
+            },
+            {
+                "id": 2,
+                "name": "Sword Saint",
+                "perks": {}
+            },
+            {
+                "id": 3,
+                "name": "Sword Immortal",
+                "perks": {}
+            }
+        ]
+    }
+}

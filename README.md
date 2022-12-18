@@ -1,0 +1,1 @@
+# Eternal RPG bot made as a bet
